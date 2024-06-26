@@ -1,0 +1,5 @@
+,Architecuture,AUC,Recall,Precision,Accuracy,F1 score,Time taken,Parameters
+0,Random Forest,0.9871794871794871,1.0,0.9838709677419355,0.99,0.991869918699187,0.08077783937807435,test
+1,SVM,0.9241277847835224,0.9508196721311475,0.9354838709677419,0.93,0.943089430894309,0.005077865388658311,"dict_values([1.0, False, 200, None, 0.0, 'ovr', 1, 0.1, 'poly', -1, False, 25, True, 0.001, False])"
+2,Gradient Boosting,0.5,1.0,0.61,0.61,0.7577639751552795,0.03421758987285473,"dict_values([0.0, 'friedman_mse', None, 0.001, 'log_loss', 10, None, None, 0.0, 1, 2, 0.0, 100, None, 25, 1.0, 0.0001, 0.1, 0, False])"
+3,Naive Bayes,0.9743589743589743,1.0,0.9682539682539683,0.98,0.9838709677419354,0.000702303106134588,"dict_values([None, 1e-09])"
